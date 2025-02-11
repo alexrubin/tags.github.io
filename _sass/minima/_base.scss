@@ -262,6 +262,7 @@ table {
   padding: 12px 20px 12px 40px; /* Add some padding */
   border: 1px solid #ddd; /* Add a grey border */
   margin-bottom: 18px; /* Add some space below the input */
+  box-sizing: border-box;
 }
 
 #tagList {
@@ -284,3 +285,7 @@ table {
 // #myUL li a:hover:not(.header) {
 //   background-color: #eee; /* Add a hover effect to all links, except for headers */
 // }
+
+.site-nav {
+  display: none !important;
+}
