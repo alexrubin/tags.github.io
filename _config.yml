@@ -47,6 +47,7 @@ plugins:
 exclude:
   - _db
   - tags.sqbpro
+  - Readme.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
